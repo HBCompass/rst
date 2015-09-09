@@ -5,6 +5,6 @@ Titles and Headers
 ------------------
 
 
-..code ::
+::
   Title
   =====
